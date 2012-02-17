@@ -1,0 +1,663 @@
+h1.name{
+	margin-left:175px;
+	font-family: Helvetica;
+	font-size: 24px;
+	color:#15489b;
+}
+
+h2.blue{
+	color: #15489b;
+	font-family: Helvetica;
+	margin-left:30px;
+	font-size: 18px;
+	margin-bottom:10px;
+}
+	
+h2{
+	color: #15489b;
+	font-family: Helvetica;
+	font-size: 30px;	
+}
+	
+h2#projects{
+	text-shadow: 0px 0px 0px;
+	color: #15489b;
+	font-family: Helvetica;
+	font-size: 18px;
+	margin-left: -50px;
+}
+	
+.wrapper{
+	margin:0 auto;
+	display:block;
+	width:730px;
+	position: relative;
+	padding-top: 10px;
+}
+
+
+.clipboard{
+	float:left;
+	background-image: url(/images/clipboard.jpg);
+	background-repeat: no-repeat;
+	display:block;
+	width:601px;
+	height: 651px;
+}
+
+.text{
+	margin: 0 auto;
+	margin-top: 100px;
+	height:500px;
+	width:500px;
+	font-family: Helvetica;
+	font-size:12px;
+	position: relative;
+}
+	
+.text-small{
+	margin: 0 auto;
+	margin-top: 100px;
+	height:500px;
+	width:500px;
+	font-family: Helvetica;
+	font-size:12px;
+	line-height: 14px;
+	text-align: justify;
+	position: relative;
+} /*--- used on business experience page, --*/
+	
+.text-small p{
+	margin-top:20px;
+}
+
+img.curl{
+	position:absolute;
+	bottom:350px;
+	right:40px;	
+}
+
+.navright{
+	float:left;
+	width:110px;
+	margin-left: 10px;
+}
+	
+.nav{
+	float:right;
+}
+
+.nav p{
+	vertical-align: middle;
+	text-align: right;
+	color:#000000;
+}
+	
+.nav a{
+	vertical-align: middle;
+	text-align: right;
+	color:#000000;
+}
+	
+.nav li{
+	height:55px;
+	padding:5px;
+	width:107px;
+	font-family: Helvetica,arial;
+	list-style-type: none;
+	margin-top:10px;
+	border-top-right-radius:10px;
+	border-bottom-right-radius:10px;
+	-moz-border-radius-bottomright:10px;
+	-moz-border-radius-topright:10px;
+}
+	
+li.active{
+	background-color:#d1d1d1;
+	border-top-right-radius:10px;
+	border-bottom-right-radius:10px;
+	-moz-border-radius-bottomright:10px;
+	-moz-border-radius-topright:10px;
+}
+	
+li.active p{
+	color:#ffffff;
+}
+
+.nav li:hover{
+	background-color: #d1d1d1;
+}
+	
+.nav a{
+	text-decoration: none;
+	vertical-align: middle;
+}
+
+.nav a:visited{
+	color:#ffffff;
+	background-color: #08021f;
+}
+		
+/*---homepage---*/
+
+.text img{
+	float:left;
+	margin-left:30px;
+}
+	
+.contact img{
+	height:15px;
+}
+
+.contact{
+	font-size: 14px;
+	padding-top: 10px;
+}
+
+td.icon{
+	width:50px;
+}
+
+td.add{
+	width:180px;
+	height:30px;
+}
+
+.objective{
+	margin:60px 0 0 0;
+	width:500px;
+}
+		
+.objective p{
+	font-family: Helvetica;
+	font-size: 12px;
+	line-height: 14px;
+	padding-left:40px;
+	margin: 0 auto;
+	width:400px;
+}
+	
+.add a{
+	text-decoration: none;
+	color:#15489b;
+}
+
+/*---education----*/
+table.ed{
+	margin-top:-20px;
+}
+	
+table.ed td{
+	font-family: Helvetica;
+	font-size: 12px;
+}
+		
+table.ed td.date{
+	font-family: Helvetica;
+	color: #15489b;
+	font-size: 10px;
+	width:100px;
+	height:70px;
+	vertical-align: bottom;
+	text-align: right;
+}
+	
+table.ed td.sch{
+	width:300px;
+	vertical-align: bottom;
+	padding-left: 20px;
+}
+
+table.ed td.line2{
+	width:100px
+}
+	
+table.ed td.line2sch{
+	width:300px;
+	padding-left: 20px;
+	font-size: 11px;
+	color:#788eb6;
+	font-style: italic;
+}
+.sch a {
+	text-decoration: none;
+	color:#5c5c5c;
+}
+
+table.ed td.line2{
+	width:100px
+}
+	
+table.ed td.line2sch{
+	width:300px;
+	padding-left: 20px;
+	font-size: 11px;
+	color:#788eb6;
+	font-style: italic;
+}
+
+/*-- EXPERIENCE page --*/
+
+.experiencepage-work{
+	width:450px;
+	margin-top: 20px;
+	padding-bottom: 10px;
+	padding-left:40px;
+	clear:both;
+}
+
+.experience-work a{
+	color: #	
+}
+
+.experiencepage-work ul{
+	list-style-type: disc;
+}
+
+.experiencepage-work ul li{
+	margin-left: 15px;
+
+}
+
+.morelink a{
+	color:#15489b;
+	text-decoration: none;
+	font-size: 16px;
+}
+
+.morelink a:hover{
+	text-decoration: underline;
+}
+
+.project-info{
+	line-height: 14px;
+}
+
+/*-- HONORS PAGE --*/
+table.hon td.date{
+	font-family: Helvetica;
+	color: #15489b;
+	font-size: 10px;
+	width:100px;
+	height:30px;
+	vertical-align: bottom;
+	text-align: right;
+}
+
+table.hon td.sch{
+	width:300px;
+	vertical-align: bottom;
+	padding-left: 20px;
+}
+
+
+/*-------- SKILLS PAGE -------*/
+
+.skills{
+	margin-left:40px;
+	margin-top: 40px;
+}
+
+.skills h3{
+	font-size:16px;
+	color:#15489b;
+	margin-top: 10px;
+}
+
+.skills ul{
+	width:500px;
+	list-style-type: disc;
+	margin-bottom: 30px;
+
+}	
+
+.skills ul li{
+	display: inline;
+	margin-left: 20px;
+		list-style-type: armenian;
+
+
+}
+
+.morelink{
+	position: absolute;
+	bottom: 10px;
+	right:70px;
+}
+
+	
+/*-------WORK PAGE-------*/
+.pics-wrapper{
+	width:400px;
+	margin-left:80px;
+	margin-top:30px;
+}
+	
+ul.pics li{
+	background-image: url(/images/resume-sprite.png);
+	width:80px; height:80px;
+	float:left;
+	display: inline;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+	
+li.bia{
+	
+	background-position: 0px 0px;
+}
+	
+li.atl{
+	background-position: -80px 0px;
+}
+
+li.wanderlust{
+	background-position: -162px 0px;
+}
+	
+li.ghost{
+	background-position: 0px -80px;
+}
+	
+li.ve{
+	background-position: -80px -80px;
+}
+	
+li.travel{
+	background-position: -162px -80px;
+}
+	
+li.bdbreads{
+	background-position: -242px 0px;
+}
+	
+li.hutch{
+	background-position: -242px -80px;
+}
+/*----------------------------------------------- BLUE ICE PAGE ----------------------------------------------------*/
+.page-wrapper{
+	position: relative;
+	width:950px;
+	margin:0 auto;
+	background-color:white;
+	-moz-box-shadow: 5px 5px 5px #888;
+	-webkit-box-shadow: 5px 5px 5px #000;
+	box-shadow: 5px 5px 5px #888;
+	margin-bottom: 50px;	
+}
+	
+.content-wrapper{
+	position: relative;
+	width:860px;
+	margin:0 auto;
+}
+
+ul.project{
+}
+
+.client-info{
+	width:750px;
+}
+
+.client-info p{
+	font-family: Helvetica;
+	line-height: 22px;
+	width:750px;
+	margin: 0 auto;
+	text-align: justify;
+	margin-bottom: 0px;
+}
+
+p.web-address{
+	font-family: Helvetica;
+	line-height: 22px;
+	width:650px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+
+.toplogowrapper{
+	position: relative;
+	margin:0 auto;
+	width:200px;
+	padding-top: 30px;
+}
+
+.blueice-logo{
+	position: relative;
+	margin:0 auto;
+	width:300px;
+	padding-top: 20px;
+}
+
+img.logo-big{
+	margin: 0 auto;
+}
+
+#wrapper{
+	margin-bottom:70px;
+}
+
+
+.vimeo-wrapper{
+	margin-right: auto;
+	position:relative;
+	margin-top: 0;
+	margin-left: auto;
+	width:900px;
+	height: 300px;
+	margin-bottom: 30px;
+}
+
+.vimeo-wrapper iframe{
+	float:left;
+	margin-right:20px;
+}
+
+p.vimeo-text{
+	float: left;	
+	width:450px;
+	margin-top: -20px;
+	font-family: Helvetica;
+	line-height: 22px;
+	padding: 5px;
+	margin: 0 auto;
+	text-align: justify;
+}
+
+.logo-box p{
+	margin-top: 15px;
+	font-family: Helvetica;
+	line-height: 22px;
+	padding: 5px;
+	margin: 0 auto;
+	text-align: justify;
+}
+
+#blog{
+	height: 200px;
+	padding-bottom:130px;
+}
+
+#blog p{
+	margin-top:-20px;
+	font-family: Helvetica;
+	line-height: 22px;
+	padding: 5px;
+	margin: 0 auto;
+	text-align: justify;
+}
+
+#bottomnav{
+	width:950px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	background-color: #d0d0d0;
+	margin-left:-45px;
+	margin-top: 50px;
+	height:100px;
+	color: #ffffff;
+	font-size: 24px;
+}
+
+#bottomnav a{
+	color: black;
+	text-decoration: none;
+}
+
+#bottomnav a:hover{
+	color: black;
+	text-decoration: underline;
+}
+
+#bottomleft{
+	width:420px;
+	float: left;
+	padding: 40px 0px 0px 30px;	
+	text-align: left;
+}
+
+#bottomright{
+	width:420px;
+	float: left;
+	padding: 40px 0px 0px 30px;	
+	text-align: right;
+}
+
+ul.beazerbar{
+	         display: none;
+	         margin-top: -10px;
+	         margin-left: -10px;
+	         width: 100%;
+	         min-width: 870px;
+	         height: 25px;
+	         font-size: 12px;
+	         font-family: helvetica;
+	         vertical-align: baseline;
+	         background-color: #898989;
+}
+
+li.right{
+	     background-repeat: no-repeat;
+	     width: 400px;
+	     list-style-type: none;
+	     background-image: url(/images/right_white.png);
+	     margin-right: 7px;
+	     text-align: right;
+	     float: right;
+	     display: list-item;
+	     vertical-align: baseline;
+}
+
+li.left{
+	    background-repeat: no-repeat;
+	    list-style-type: none;
+	    padding-left: 0px;
+	    display: list-item;
+	    margin-left: 7px;
+	    text-align: left;
+	    width: 400px;
+	    background-image: url(/images/left_white.png);
+	    float: left;
+	    vertical-align: baseline;
+}
+
+li.center{
+	      width: 16px;
+	      list-style-type: none;
+	      display: inline-block;
+	      vertical-align: baseline;
+	      text-align: center;
+}
+
+ul.beazerbar a{
+	      color: white;
+	      text-decoration: none;
+}
+
+h2.blueice{
+	      color: #15489b;
+	      font-size: 30px;
+	      font-family: helvetica, sans-serif;
+}
+	  
+
+
+/*------------------- end BLUE ICE PAGE -----------------------*/
+		
+/*-- BD BREADS PAGE --*/
+h2.bdbreads{
+	        text-shadow: 2px 2px 3px;
+	        color: #543c2f;
+	        font-size: 30px;
+	        font-family: helvetica, sans-serif;
+	            	
+}
+
+.php-box{
+	padding-bottom: 130px;
+}
+
+.php-box p{
+	margin-top: -20px;	
+}
+
+/*-- HUTCHS PAGE --*/
+h2.hutchs{
+	        text-shadow: 2px 2px 3px;
+	        color: #ff0000;
+	        font-size: 30px;
+	        font-family: helvetica, sans-serif;
+	            	
+}
+
+#hutchs-video{
+	width:900px;
+	padding-bottom: 200px;
+}
+
+#hutchs-video p{
+	font-family: Helvetica;
+	line-height: 22px;
+	width:750px;
+	text-align: justify;
+	margin-bottom: 30px;
+}
+
+#hutchs-video #wrap{
+	border-color: red;
+	border-style: solid;
+	border-width: 3px;
+	margin: 0 auto;	
+	width: 500px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+
+
+
+/*-----IE BUGG------*/
+#bottomright img{
+}
+	            
+#IEroot.bug{
+	display:none;
+}
+	
+#IEroot.bug a{
+	display: none;
+}
+	
+.bug{
+	position: absolute;
+	top:0px;
+	right:100px;
+}
+	
+img.evil{
+	position: absolute;
+	top:433px;
+	right:-14px;
+}

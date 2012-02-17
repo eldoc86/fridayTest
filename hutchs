@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+	<head>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+		<title>Hutch's Bicycles</title>
+		<link rel="stylesheet" href="/css/basic.css" rel="stylesheet" type="text/css" media="all" />
+		<link rel="stylesheet" href="/nivo-slider/style.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/nivo-slider/nivo-slider.css" type="text/css" media="screen" />
+		
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+<script src="/nivo-slider/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+
+
+<style type="text/css">
+
+body{
+	font-family: helvetica;
+	background: url(/images/hutchs/background-green.png) repeat;
+}
+
+
+</style>
+	</head>
+
+	<body>
+		<div class="page-wrapper">
+		<ul class="beazerbar">
+		<li class="right">
+		<a href="bdbreads" class="nav">BD Breads</a></li>
+		<li class="left">
+		<a href="work" class="nav">Back to work</a></li>
+		<li class="center">
+		<a href="/" class="nav">About</a></li>
+		</ul>
+
+		<div class="content-wrapper">
+		<div class="toplogowrapper">
+		<a href="http://www.hutchsbicycles.com"><img class="logo-big" src="images/hutchs/hutchslogo-200w.png" /></a>
+		</div>
+		
+		<h2 class="hutchs">The Task</h2>
+		<ul class="project" title="Project Outline">
+		<li>Create a company video for the website</li>
+		<li>Assist in the build of the new website</li>
+		<li>Take pictures for the site</li>
+		<li>Set up social media accounts</li>
+		</ul>
+		<h2 class="hutchs">The Client</h2>
+		<div class="client-info">
+		<p>
+		Hutch's Bicycles are based in Bend, Oregon, but have stores throughout the state.  I was asked to create a company video to go on their new home page and then contracted to assist with building the new site and setting up customized social media accounts.
+		</p>
+		</div> <!-- close client info -->
+ 
+		<div id="hutchs-video">
+		<h2 class="hutchs">The Video</h2>
+		<p>I created a video in iMovie using a combination of stills and video and cut it together to a popular song.  Hutch's wanted a video that communicated what sets them apart from their competition as well as to give the customer a feel for the company before they set foot in the store.   </p>
+	
+	<div id="wrap">
+	<iframe src="http://player.vimeo.com/video/11633516?title=0&amp;portrait=0" width="500" height="281" frameborder="0"></iframe>
+            	</div>
+        
+	</div>
+    
+    	<div id="bottomnav">
+    	<div id="bottomleft"><a href="work"><< Work page</a></div>
+    	<div id="bottomright"><a href="http://www.hutchsbicycles.com">Visit the Hutch's Bicycles site >></a></div>
+         </div>
+			</div><!-- close content-wrapper"-->		
+		</div><!-- close page wrapper --> 
+	
+	</body>
+
+</html>

@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+		<title>David Beazer - Business Experience continued</title>
+		<link href="css/reset.css" type="text/css" rel="stylesheet" media="all" />
+		<link href="css/basic.css" type="text/css" rel="stylesheet" media="all" />
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16400508-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	</head>
+
+<body>
+<!--[if IE]>
+		<div id="IEroot">
+		<![endif]-->
+		
+<div class="wrapper">
+	
+	<div class="clipboard" style="	background-image: url(/images/clipboard.png);background-repeat: no-repeat;">
+	<div class="text-small">
+<h2 class="blue">Business Experience Continued</h2>
+
+<div class="experiencepage-work">
+Marketpoint Europe Ltd. - Bracknell, England &nbsp &nbsp&nbsp &nbsp 					           	May 2003- June 2005<br/>
+Account Management Support & Database Administration<br/><br/>
+Project roles/responsibilities:<br/>
+	<ul>
+	<li>Reporting directly to account director, qualifying 20-50 incoming leads from European call-centers for distribution.</li>
+	<li>Responsible for implementing quality control standards in the bureau at over 98% success rate over 2 year period.</li>
+	<li>Developed and ran advanced queries on company CRM that managed 35 client databases in 8 countries with over 120,000 contacts.</li>
+<br/>Achievements:<br/>
+	<li>Awarded employee of the month on 2 individual occasions.</li>
+	<li>Trained teams of 10-15 new employees on inbound and outbound telemarketing, and data-entry for ad-hoc projects.</li>
+
+</div>
+</div> <!-- close text -->
+	
+	</div> <!-- close clipboard -->
+
+<div class="navright">
+		<div class="nav">
+		<ul>
+		<a href="/"><li><p>About</p></li></a>
+		<a href="work-experience"><li  class="active"><p>Experience</p></li></a>
+		<a href="education"><li><p>Education</p></li></a>
+		<a href="honors"><li><p>Honors</p></li></a>
+		<a href="skills"><li><p>Skills</p></li></a>
+		<a href="work"><li><p>Work</p></li></a>
+		</ul>
+		</div>
+</div>
+
+</div> <!-- close wrapper -->	
+<!--[if IE]>
+
+<div class="bug"><img class="line" src="/images/ie/line.png"><a href="/iesucks.html"><img class="evil" src="/images/ie/evile-ie.png"></a></div>
+	<![endif]-->
+
+<!--[if IE]>
+		</div>
+		<![endif]-->
+
+</body>
+</html>
